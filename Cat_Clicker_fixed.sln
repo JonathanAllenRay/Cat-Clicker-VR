@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat_Clicker_fixed", "Cat_Clicker_fixed.csproj", "{09D07AC7-87FB-21DF-3B6F-08349FEFDA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat_Clicker_fixed.Editor", "Cat_Clicker_fixed.Editor.csproj", "{327A0046-3982-73C6-27A6-36D718069D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D07AC7-87FB-21DF-3B6F-08349FEFDA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D07AC7-87FB-21DF-3B6F-08349FEFDA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D07AC7-87FB-21DF-3B6F-08349FEFDA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D07AC7-87FB-21DF-3B6F-08349FEFDA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327A0046-3982-73C6-27A6-36D718069D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327A0046-3982-73C6-27A6-36D718069D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327A0046-3982-73C6-27A6-36D718069D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327A0046-3982-73C6-27A6-36D718069D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
